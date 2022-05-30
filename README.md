@@ -13,7 +13,7 @@ For media outlets, the ability to attract viewers to their websites is necessary
 
 # Libraries Used
 
-Numpy
-Pandas
-Intertools
-Sklearn
+•	Numpy
+•	Pandas
+•	Itertools
+•	Sklearn
